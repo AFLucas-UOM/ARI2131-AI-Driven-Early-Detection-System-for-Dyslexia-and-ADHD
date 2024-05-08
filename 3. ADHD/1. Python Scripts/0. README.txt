@@ -1,0 +1,1 @@
+Users should only run the hub.py script to run the ADHD system. The hub.py script is intended to launch and manage the ADHD.py script automatically. To ensure proper functionality and coordination between the two scripts, please run the hub.py script to start the ADHD analysis process and avoid running ADHD.py independently.
