@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project was developed as part of an academic assignment, as part of the `ARI2131` course at the `University of Malta`.
+This project was developed as part of an academic assignment. Unit: `ARI2131` at the `University of Malta`.
 
 ## Contact
 
